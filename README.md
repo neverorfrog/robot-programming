@@ -1,1 +1,3 @@
-This is the repo for the robot programming course held by Professor Grisetti
+# Repo for Robot Programming
+
+## Course held by Professor Grisetti in the AI and Robotics Master at Sapienza University of Rome
