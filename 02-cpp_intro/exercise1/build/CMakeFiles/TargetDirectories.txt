@@ -1,0 +1,14 @@
+/home/flavio/University/rp/my-rp/02-cpp_intro/exercise1/build/CMakeFiles/edit_cache.dir
+/home/flavio/University/rp/my-rp/02-cpp_intro/exercise1/build/CMakeFiles/rebuild_cache.dir
+/home/flavio/University/rp/my-rp/02-cpp_intro/exercise1/build/src/CMakeFiles/edit_cache.dir
+/home/flavio/University/rp/my-rp/02-cpp_intro/exercise1/build/src/CMakeFiles/rebuild_cache.dir
+/home/flavio/University/rp/my-rp/02-cpp_intro/exercise1/build/src/linalg/CMakeFiles/vec_f_library.dir
+/home/flavio/University/rp/my-rp/02-cpp_intro/exercise1/build/src/linalg/CMakeFiles/mat_f_library.dir
+/home/flavio/University/rp/my-rp/02-cpp_intro/exercise1/build/src/linalg/CMakeFiles/vec_f_test.dir
+/home/flavio/University/rp/my-rp/02-cpp_intro/exercise1/build/src/linalg/CMakeFiles/mat_f_test.dir
+/home/flavio/University/rp/my-rp/02-cpp_intro/exercise1/build/src/linalg/CMakeFiles/edit_cache.dir
+/home/flavio/University/rp/my-rp/02-cpp_intro/exercise1/build/src/linalg/CMakeFiles/rebuild_cache.dir
+/home/flavio/University/rp/my-rp/02-cpp_intro/exercise1/build/src/btree/CMakeFiles/btree_library.dir
+/home/flavio/University/rp/my-rp/02-cpp_intro/exercise1/build/src/btree/CMakeFiles/btree_test.dir
+/home/flavio/University/rp/my-rp/02-cpp_intro/exercise1/build/src/btree/CMakeFiles/edit_cache.dir
+/home/flavio/University/rp/my-rp/02-cpp_intro/exercise1/build/src/btree/CMakeFiles/rebuild_cache.dir
