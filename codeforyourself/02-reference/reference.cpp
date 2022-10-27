@@ -13,7 +13,7 @@ int main(){
 
     std::printf("var: %d, ref: %d, const_ref: %d\n",number,ref,const_ref);
 
-    //const_ref = 40; this  is  not  possible because constant references don't allow its values
+    // const_ref = 40; this  is  not  possible because constant references don't allow to be changed (not to change its referenced value)
 
     return 0;
 }

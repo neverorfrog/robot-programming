@@ -1,0 +1,1 @@
+/usr/bin/c++ -rdynamic CMakeFiles/main.dir/main.cpp.o -o main  -Wl,-rpath,/home/flavio/University/rp/my_rp/learncpp/02-header_files/build/src libcore.so 
